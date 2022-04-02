@@ -228,7 +228,7 @@ a:active {
   width: 100%;
   color: #fff;
   text-transform: uppercase;
-  height: 125px;
+  height: fit-content;
   padding: 25px 0;
 }
 .reasons-col .reasons-title {
